@@ -6,6 +6,8 @@ public class Student {
 	private int age;
 	private int id;
 	
+	public 
+	
 	
 	
 	public String getName() {
