@@ -13,7 +13,6 @@ public class AnimalTest {
 		
 		for(int i = 1; i<=3; i++) {
 			dog.run(i);
-			System.out.println(dog.getDistance());
 			chicken.run(i);
 			cheatableChicken.run(i);
 			System.out.println( i + "시간 후");

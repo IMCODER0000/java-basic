@@ -1,12 +1,8 @@
-package test;
+package Task;
 
-
-
-public class TestJava {
+public class AccessModifierTest {
 	
 	public static void main(String[] args) {
-		
-		
 		
 	}
 	
